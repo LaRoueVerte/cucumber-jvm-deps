@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.cucumber</groupId>
     <artifactId>cucumber-jvm-deps</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.7</version>
     <name>Cucumber-JVM Repackaged Dependencies</name>
     <url>https://github.com/cucumber/cucumber-jvm-deps</url>
     <parent>
@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
-            <version>1.4.7</version>
+            <version>1.4.17</version>
             <exclusions>
                 <exclusion>
                     <groupId>xmlpull</groupId>
